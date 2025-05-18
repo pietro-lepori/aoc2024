@@ -1,3 +1,18 @@
+### AOC specific rules ###
+
+# don't leak input
+*in.txt
+*input*.txt
+
+
+### nano ###
+
+# exclude auto-save files
+*.save*
+
+
+### GitHub default Python repo rules ###
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
