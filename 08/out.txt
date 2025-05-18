@@ -1,0 +1,10 @@
+PART 1
+PASS test1.txt ans = '14' -- value = '14'
+-> 376
+PART 2
+PASS test1.txt ans = '34' -- value = '34'
+-> 1352
+
+real	0m0.041s
+user	0m0.031s
+sys	0m0.004s

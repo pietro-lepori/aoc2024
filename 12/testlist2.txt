@@ -1,0 +1,6 @@
+test1.txt 80
+test2.txt 436
+test3.txt 1206
+test20.txt 236
+test21.txt 368
+input_Andrea.txt 839780
